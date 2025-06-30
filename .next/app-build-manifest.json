@@ -1,40 +1,41 @@
 {
   "pages": {
     "/_not-found/page": [
-      "static/chunks/webpack-dfc0e761cadf857a.js",
+      "static/chunks/webpack-f6d30be6ff386c08.js",
       "static/chunks/4bd1b696-7e1b065dd3db9dc0.js",
       "static/chunks/202-32dfac5a20470789.js",
       "static/chunks/main-app-6df994a9519f4e65.js",
       "static/chunks/app/_not-found/page-2acb10d82bfff3f1.js"
     ],
     "/layout": [
-      "static/chunks/webpack-dfc0e761cadf857a.js",
+      "static/chunks/webpack-f6d30be6ff386c08.js",
       "static/chunks/4bd1b696-7e1b065dd3db9dc0.js",
       "static/chunks/202-32dfac5a20470789.js",
       "static/chunks/main-app-6df994a9519f4e65.js",
-      "static/chunks/app/layout-68ecb01db788aa1f.js"
+      "static/css/27454cc6d9a96783.css",
+      "static/chunks/app/layout-674cf327b2dc711d.js"
     ],
     "/page": [
-      "static/chunks/webpack-dfc0e761cadf857a.js",
+      "static/chunks/webpack-f6d30be6ff386c08.js",
       "static/chunks/4bd1b696-7e1b065dd3db9dc0.js",
       "static/chunks/202-32dfac5a20470789.js",
       "static/chunks/main-app-6df994a9519f4e65.js",
-      "static/chunks/app/page-dee2639d19d2b759.js"
+      "static/chunks/app/page-97452d2eed8a9517.js"
+    ],
+    "/professor/page": [
+      "static/chunks/webpack-f6d30be6ff386c08.js",
+      "static/chunks/4bd1b696-7e1b065dd3db9dc0.js",
+      "static/chunks/202-32dfac5a20470789.js",
+      "static/chunks/main-app-6df994a9519f4e65.js",
+      "static/chunks/app/professor/page-bfc5f29ba5bfe77e.js"
     ],
     "/studio/page": [
-      "static/chunks/webpack-dfc0e761cadf857a.js",
+      "static/chunks/webpack-f6d30be6ff386c08.js",
       "static/chunks/4bd1b696-7e1b065dd3db9dc0.js",
       "static/chunks/202-32dfac5a20470789.js",
       "static/chunks/main-app-6df994a9519f4e65.js",
       "static/chunks/647-396639035f4a8b27.js",
       "static/chunks/app/studio/page-cb5faf9e6ba8bb65.js"
-    ],
-    "/professor/page": [
-      "static/chunks/webpack-dfc0e761cadf857a.js",
-      "static/chunks/4bd1b696-7e1b065dd3db9dc0.js",
-      "static/chunks/202-32dfac5a20470789.js",
-      "static/chunks/main-app-6df994a9519f4e65.js",
-      "static/chunks/app/professor/page-69b1830807dedd61.js"
     ]
   }
 }
