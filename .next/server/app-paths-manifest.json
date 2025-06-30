@@ -1,9 +1,6 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/api/auth/route": "app/api/auth/route.js",
-  "/api/schedules/route": "app/api/schedules/route.js",
-  "/api/users/route": "app/api/users/route.js",
-  "/professor/page": "app/professor/page.js",
   "/page": "app/page.js",
-  "/studio/page": "app/studio/page.js"
+  "/studio/page": "app/studio/page.js",
+  "/professor/page": "app/professor/page.js"
 }
